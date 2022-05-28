@@ -350,31 +350,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrew.witherley\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Shruti Puranik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest\\MailContainerTest.csproj",
+      "projectUniqueName": "C:\\Shruti\\Personal\\InterviewTechTests\\TCS\\MailContainerTest\\MailContainerTest\\MailContainerTest.csproj",
       "projectName": "MailContainerTest",
-      "projectPath": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest\\MailContainerTest.csproj",
-      "packagesPath": "C:\\Users\\andrew.witherley\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest\\obj\\",
+      "projectPath": "C:\\Shruti\\Personal\\InterviewTechTests\\TCS\\MailContainerTest\\MailContainerTest\\MailContainerTest.csproj",
+      "packagesPath": "C:\\Users\\Shruti Puranik\\.nuget\\packages\\",
+      "outputPath": "C:\\Shruti\\Personal\\InterviewTechTests\\TCS\\MailContainerTest\\MailContainerTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\andrew.witherley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shruti Puranik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://teamcity.synetec.co.uk/httpAuth/app/nuget/feed/_Root/default/v2": {}
       },
       "frameworks": {
         "net6.0": {
@@ -412,7 +414,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

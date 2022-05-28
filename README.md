@@ -32,3 +32,16 @@ You should add suitable tests into the MailContainerTest.Test project.
 
 There are no additional constraints, use the packages and approach you feel appropriate, aim to spend no more than 2 hours. Please update the readme with specific comments on any areas that are unfinished and what you would cover given more time.
 
+
+
+### TODO
+
+Enums StandardLetter, LargeLetter and SmallParcel could be changed to classes sharing a common interface or a base class with a Validate method. 
+
+More unit tests which cover nullable reference types (strings), along with some more unit tests for Validator class
+
+More error handling.
+
+Register the services with DI
+
+Implementing IConfigService to use ConfigurationManager and move AppSettings[] code to it

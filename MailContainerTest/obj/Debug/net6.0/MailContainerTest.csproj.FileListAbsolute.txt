@@ -10,3 +10,15 @@ C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest\obj\Debug\ne
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.dll
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest\obj\Debug\net6.0\ref\MailContainerTest.dll
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.pdb
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\bin\Debug\net6.0\MailContainerTest.deps.json
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\bin\Debug\net6.0\MailContainerTest.dll
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\bin\Debug\net6.0\MailContainerTest.pdb
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.csproj.AssemblyReference.cache
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.AssemblyInfoInputs.cache
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.AssemblyInfo.cs
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.csproj.CoreCompileInputs.cache
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.dll
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\refint\MailContainerTest.dll
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\MailContainerTest.pdb
+C:\Shruti\Personal\InterviewTechTests\TCS\MailContainerTest\MailContainerTest\obj\Debug\net6.0\ref\MailContainerTest.dll
