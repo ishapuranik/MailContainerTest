@@ -36,7 +36,7 @@ There are no additional constraints, use the packages and approach you feel appr
 
 ### TODO
 
-Enums StandardLetter, LargeLetter and SmallParcel could be changed to classes sharing a common interface or a base class with a Validate method. 
+Enums StandardLetter, LargeLetter and SmallParcel could be converted to classes sharing a common interface or a base class with a Validate method. 
 
 More unit tests which cover nullable reference types (strings), along with some more unit tests for Validator class
 
