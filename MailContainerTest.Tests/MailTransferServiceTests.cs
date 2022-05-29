@@ -48,7 +48,7 @@ namespace MailContainerTest.Tests
         }
 
         [Fact]
-        public void MakeMailTransferDoesNotUpdateMailContainerAndReturnsUnsuccessfulResponseIfValidationFails()
+        public void MakeMailTransfer_does_not_calls_UpdateMailContainer_and_Returns_false_If_Validation_Fails()
         {
             Init();
 
